@@ -1,0 +1,54 @@
+
+#btn{
+  width: 300px;
+  padding-left: 0px;
+  background-color: burlywood
+  ;
+}
+#btn:hover{
+  text-decoration: underline;
+  background-color: rgb(100, 249, 100);
+}
+.btn{
+  width: 50%;
+  margin: auto;
+}
+.a1{
+  /* margin-top: 20px; */
+  border: 2px solid;
+  width: 200px;
+  border-radius: 5px;
+  padding: 6px;
+  padding-left: 40px;
+  background-color: aquamarine;
+  margin: 5px  ;
+}
+#item1,#item2 {
+  display: inline;
+  padding-left: 10px;
+}
+
+#item3,#item4 {
+  display: inline;
+  padding-left: 10px;
+}
+.form{
+  border: 3px solid;
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+
+}
+   
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+  border: 2px solid;
+  background-color: salmon;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+

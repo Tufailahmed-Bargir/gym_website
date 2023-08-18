@@ -1,0 +1,157 @@
+ .right a{
+        color: aliceblue;
+        text-decoration: none;
+      }
+      .right #btn1:hover ,.right #btn2:hover{
+        background-color: rgb(112, 115, 115);
+      }
+      .right #btn1{
+        border: 2px solid rgb(0, 0, 0);
+        padding: 3px;
+        border-radius: 10px;
+        background-color:rgb(47, 46, 48);
+        margin-right: 5px;  
+      }
+      .right #btn2{
+        border: 2px solid rgb(0, 0, 0);
+        padding: 2px 3px 2px 3px;
+        border-radius: 10px;
+        background-color:rgb(47, 46, 48);
+        margin-right: 5px;
+      }
+      .right div{
+        display: inline;
+         
+      }
+      .right{
+        display: inline-block;
+        position: absolute;
+        right: 30px;
+        top: 10px;
+        color: aliceblue;
+        border: 2px ;
+      }
+      
+      img{
+        /* to convert white image into black and vise versa */
+        /* filter: invert(100%); */
+
+      }
+      h1:hover{
+        text-decoration: underline;
+        /* background-color: chartreuse; */
+      }
+    a:hover{
+      text-decoration: underline;
+    }
+      header{
+        position:static;
+      }
+      #text{
+        font-size: 20px;
+        font-weight: bolder;
+        color: aliceblue;
+      }
+      form{
+        border: 2px;
+        padding: 1px;
+        margin-top: 150px;
+        width: 300px;
+        padding-left: 20px;
+        margin-left: 50px;
+        text-align: center;
+      }
+       input[type='text'],input[type='number'],input[type='email']{
+        width: 200px;
+        border: 2px ;
+        border-radius: 20px;
+        padding: 8px;
+        padding-left: 70px;
+        background-color: rgb(191, 202, 202);
+
+
+      }
+    #f15{
+      border: 2px;
+      border-radius: 20px;
+      padding: 8px;
+      width: 280px;
+      text-align: center;
+      background-color: brown;
+
+
+    }
+    #f15:hover{
+      text-decoration: underline;
+      background-color:aqua;
+    }
+         
+    button{
+        padding: 30px;
+        width: 50px;
+    }
+        
+    
+      .mid a {
+        text-decoration: none;
+        color: aliceblue;
+        padding: 12px;
+        margin: auto;
+        width: 449px;
+        font-size: larger;
+        padding-left: 40px;
+        margin-top: 10px;
+      }
+      .mid a:hover{
+        text-decoration: underline;
+        /* background-color: rgb(83, 77, 77); */
+      }
+     
+      .left {
+        display: inline;
+        border: 2px ;
+        margin: 10px;
+        color: aliceblue;
+        position: absolute;
+        left: 20px;
+        top: -10px;
+        /* background-image: url(/MEDIA/logo.jpg); */
+      }
+      .left div{
+        padding-top: 1px;
+        margin-top: -22px;
+      }
+      .left img{
+        filter: invert(100%);
+        mix-blend-mode: screen;
+        margin-top: -18px;
+      }
+
+      .mid {
+        display: inline;
+        border: 2px ;
+        margin: 190px;
+        margin-top: 10px;
+       
+      }
+
+      
+       
+      body {
+        width: 1200px;
+        height: 720px;
+        background-image: url(/MEDIA/man.jpg);
+        background-size: cover;
+        /* height: 50%; */
+        /* background-attachment: scroll; */
+        
+ 
+        background-repeat: no-repeat;
+        border-color: aliceblue;
+        text-transform: capitalize;
+        /* color: aliceblue; */
+         
+       
+      }
+       
+    
